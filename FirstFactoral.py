@@ -1,3 +1,5 @@
+#Written by TheSpaceCowboy
+#Date: 12/08/17
 def FirstFactorial(num): 
 
     nums = []#contains all the numbers which will be used to times togther
